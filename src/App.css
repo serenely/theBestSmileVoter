@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.smile__div{
+  padding: 5px;
+  margin: 5px;
+  background-color: rgb(129, 88, 240);
+  width: auto;
+  height: auto;
+
+}
+
+.smile__ul{
+  display: flex;
+  justify-content: center;
+}
+
+.smile__li{
+  padding: 5px;
+  display: flex;
+  justify-content:space-between;
+  background-color: rgb(115, 184, 223);
+  border: 1px solid rgb(92, 83, 221);
+  border-radius: 7px;
+  width: 500px;
+  height: 30px;
+}

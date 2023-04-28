@@ -1,0 +1,17 @@
+body{
+    padding: 50px;
+}
+.btn{
+    font-size: 22px;
+    cursor: pointer;
+    background-color: inherit;
+    color: aliceblue;
+    border: none;
+}
+
+.div__smile__div{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100px;
+}
